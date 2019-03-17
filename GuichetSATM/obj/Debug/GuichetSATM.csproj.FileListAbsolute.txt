@@ -1,0 +1,28 @@
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.exe.config
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.csprojResolveAssemblyReference.cache
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Connection.resources
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Login.resources
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Properties.Resources.resources
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Superviseur.resources
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.csproj.GenerateResource.Cache
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Guichet.resources
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.exe
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.pdb
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.exe
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.pdb
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.exe.config
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.exe
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.pdb
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.exe
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\bin\Debug\GuichetSATM.pdb
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.csprojResolveAssemblyReference.cache
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Connection.resources
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Guichet.resources
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Login.resources
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Properties.Resources.resources
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.Superviseur.resources
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\obj\Debug\GuichetSATM.csproj.GenerateResource.Cache
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\bin\Debug\SGALib.dll
+E:\REFES ADDA - Project ATM\GuichetSATM\GuichetSATM\bin\Debug\SGALib.pdb
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\bin\Debug\SGALib.dll
+C:\Users\skill\Documents\Visual Studio 2015\Projects\GuichetSATM\GuichetSATM\bin\Debug\SGALib.pdb
